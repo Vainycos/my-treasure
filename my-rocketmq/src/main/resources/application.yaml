@@ -1,0 +1,9 @@
+# rocketmq连接信息
+rocketmq:
+  nameServer: 127.0.0.1:9876
+  # 支持自定义
+  consumerGroup: testGroup
+  # 根据实际情况配置 需要提前在mq上新建对应的topic
+  topic: testTopic
+  # 根据实际情况配置
+  selectorExpression: testTag

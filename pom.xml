@@ -20,6 +20,7 @@
     <module>my-im</module>
     <module>my-pg</module>
     <module>my-es</module>
+    <module>my-rocketmq</module>
   </modules>
 
   <properties>
