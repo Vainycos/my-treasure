@@ -8,3 +8,4 @@
 - my-parent:顶级模块
 - my-im:使用netty-socketio实现的im模块
 - my-pg:实现postgreSql数据库连接的模块
+- my-es:实现elasticsearch模块
