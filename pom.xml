@@ -22,6 +22,7 @@
     <module>my-es</module>
     <module>my-rocketmq</module>
     <module>my-satoken</module>
+    <module>my-dubbo</module>
   </modules>
 
   <properties>

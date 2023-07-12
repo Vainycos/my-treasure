@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: consumer-local
+
+server:
+  port: 50001
+
+dubbo:
+  registry:
+    address: zookeeper://x.x.x.x:2181
+    timeout: 10000
+#  protocol:
+#    name: dubbo
+#    port: 20884
