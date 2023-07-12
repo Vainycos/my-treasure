@@ -21,6 +21,7 @@
     <module>my-pg</module>
     <module>my-es</module>
     <module>my-rocketmq</module>
+    <module>my-satoken</module>
   </modules>
 
   <properties>
