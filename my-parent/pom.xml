@@ -9,7 +9,7 @@
     </parent>
     <groupId>com.vainycos</groupId>
     <artifactId>my-parent</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>${my.version}</version>
     <name>my-parent</name>
     <description>my-parent</description>
 

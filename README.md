@@ -9,3 +9,6 @@
 - my-im:使用netty-socketio实现的im模块
 - my-pg:实现postgreSql数据库连接的模块
 - my-es:实现elasticsearch模块
+- my-satoken:集成satoken模块
+- my-dubbo:集成dubbo模块
+- my-jwt:集成jwt模块

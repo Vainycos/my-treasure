@@ -10,7 +10,7 @@
   </parent>
   <groupId>com.vainycos</groupId>
   <artifactId>mine</artifactId>
-  <version>1.0</version>
+  <version>${my.version}</version>
   <name>my-parent</name>
   <packaging>pom</packaging>
   <description>my-project</description>
@@ -23,9 +23,11 @@
     <module>my-rocketmq</module>
     <module>my-satoken</module>
     <module>my-dubbo</module>
+    <module>my-jwt</module>
   </modules>
 
   <properties>
+    <my.version>1.0</my.version>
     <java.version>1.8</java.version>
     <elasticsearch.version>6.4.2</elasticsearch.version>
   </properties>
