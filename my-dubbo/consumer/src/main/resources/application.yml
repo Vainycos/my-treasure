@@ -7,7 +7,7 @@ server:
 
 dubbo:
   registry:
-    address: zookeeper://x.x.x.x:2181
+    address: zookeeper://localhost:2181
     timeout: 10000
 #  protocol:
 #    name: dubbo
